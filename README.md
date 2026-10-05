@@ -57,6 +57,8 @@ More input adapters (EMU, generic tables/Excel and R objects), a separate HUMAnN
 
 ## Testing and feedback
 
+Please try the engine with your own MetaPhlAn abundance tables and sample metadata, and let me know what you think. I would like to hear what works, what is confusing, any problems you encounter, and what would make it more useful for your analyses.
+
 Follow the short [tester walkthrough](TESTING.md), then report bugs or unclear controls through [GitHub Issues](https://github.com/lizardman472/microbiomeengine/issues). Include steps, expected/actual behaviour, package/R versions and a small synthetic example. Remove private paths and identifiers from logs/screenshots. Do not upload participant/study data, saved project RDS files or full exports as public issue attachments. A saved R object should only be reopened from a trusted source.
 
 ## Troubleshooting
